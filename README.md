@@ -3,7 +3,7 @@
 
 ---
 
-//User Guide//
+### User Guide
 
 Add the edit URLs for all dashboards you want to export to clientList.txt, one per line, followed by the start and end period for the export range required separated by spaces. 
 
