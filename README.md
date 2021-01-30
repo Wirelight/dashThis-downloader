@@ -1,4 +1,4 @@
-# dashThis-downloader
+# DashThis Downloader
 *A simple Python script to export PDF reports from [DashThis](https://dashthis.com/)*
 
 ---
