@@ -1,5 +1,7 @@
 # dashThis-downloader
-A simple Python script to export PDF reports from DashThis
+*A simple Python script to export PDF reports from [DashThis](https://dashthis.com/)*
+
+---
 
 //User Guide//
 
